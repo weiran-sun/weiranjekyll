@@ -1,8 +1,8 @@
 ---
-title: Weiran's Webpage
+title: 
 feature_text: |
   # Weiran Sun
-feature_image: "/assets/images/SFU.jpg"
+feature_image: "/assets/images/SFU-1.JPG"
 excerpt: "ab"
 ---
 
