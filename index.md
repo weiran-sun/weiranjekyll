@@ -2,7 +2,7 @@
 title: 
 feature_text: |
   # Weiran Sun
-feature_image: "https://github.com/weiran-sun/weiranjekyll/blob/main/.github/SFU.jpg"
+feature_image: .github/SFU.jpg
 excerpt: ""
 ---
 
