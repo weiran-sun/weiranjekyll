@@ -37,8 +37,8 @@ body {
 
 .header .nav {
   display: flex;
-  flex-direction: column-reverse;
-  align-items: flex-end;
+  flex-direction: row;
+  align-items: center;
   justify-content: flex-end;
   overflow: hidden;
 }
