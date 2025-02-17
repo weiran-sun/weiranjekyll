@@ -95,7 +95,7 @@ encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Weiran's Webpage" # Site name or title, also used in jekyll-seo-tag
 description: "Awesome"
-url: "https://weiran-sun.github.io/weiransjekyll" # Site url, also used in jekyll-seo-tag
+url: "https://weiran-sun.github.io/weiransmain1" # Site url, also used in jekyll-seo-tag
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # date_format: "%-d %B %Y" # Blog post date formatting using placeholder formatting
 # google_analytics: ""
