@@ -1,5 +1,5 @@
 ---
-title: About Alembic
+title: About Me
 feature_text: |
   ### Welcome to Weiran Sun's Webpage
 feature_image: "https://picsum.photos/1300/400?image=989"
