@@ -1,8 +1,8 @@
 ---
-title: ab
+title: Weiran's Webpage
 feature_text: |
   # Weiran Sun
-feature_image: "https://picsum.photos/1300/400?image=989"
+feature_image: "/assets/images/SFU.jpg"
 excerpt: "ab"
 ---
 
