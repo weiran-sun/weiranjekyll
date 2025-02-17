@@ -125,10 +125,10 @@ navigation_header:
   url: /
 - title: Publication
   url: /elements/
+- title: Group
+  url: /Group/
 - title: CV
   url: /blog/
-- title: Group
-  url: /categories/
 - title: Contact
   url: /contact/
 
