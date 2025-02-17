@@ -127,8 +127,10 @@ navigation_header:
   url: /elements/
 - title: CV
   url: /blog/
-- title: Team
+- title: Group
   url: /categories/
+- title: Contact
+  url: /contact/
 
 
 navigation_footer:
