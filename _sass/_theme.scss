@@ -35,20 +35,12 @@ body {
   }
 }
 
-.header {
-  display: flex;
-  justify-content: space-between; /* Ensures logo on left, tabs on right */
-  align-items: center;
-  padding: 10px 20px;
-}
-
-.header .logo {
-  flex: 1; /* Makes the logo stay on the left */
-}
-
 .header .nav {
   display: flex;
-  justify-content: flex-end; /* Aligns navigation links to the right */
+  flex-direction: column-reverse;
+  align-items: flex-end;
+  justify-content: flex-end;
+  overflow: hidden;
 }
 
 .feature {
