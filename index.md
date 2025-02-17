@@ -2,7 +2,7 @@
 title: 
 feature_text: |
   # Weiran Sun
-feature_image: ""
+feature_image: null
 excerpt: ""
 ---
 
