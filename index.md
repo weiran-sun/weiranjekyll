@@ -2,7 +2,7 @@
 title: 
 feature_text: |
   # Weiran Sun
-feature_image: "/assets/images/SFU-1.JPG"
+feature_image: "/assets/images/SFU.jpg"
 excerpt: "ab"
 ---
 
