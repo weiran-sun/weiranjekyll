@@ -124,7 +124,7 @@ navigation_header:
 - title: Home
   url: /
 - title: Publication
-  url: /elements/
+  url: https://github.com/weiran-sun/weiranjekyll/blob/main/elements.md
 - title: Group
   url: /Categories/
 - title: CV
